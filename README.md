@@ -6,5 +6,5 @@
 - 🚀 **JavaScript**
 - ⚛️ **React**
 
-🔗 [Acesse o site do projeto](https://yan-dmc.github.io/Nvidia-Market/)
+🔗 [Acesse o site do projeto](https://yan-dmc.github.io/dio.React_LabProject.1/)
 
